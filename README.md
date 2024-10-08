@@ -47,20 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrsantos1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrsantos1.gabrsantos1&left_color=antiquewhite&left_text=dwawdadaw"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=9&username=gabrsantos1" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/gabrsantos1/gabrsantos1/output/snake.svg" alt="Snake animation" />
 
 ###
