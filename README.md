@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👑 Back-End Developer<br>- 🔭 Enjoy Front-End<br>- 🌱 Learning C#, SQL, Oracle...<br>- 💬 Since I was young, I have loved technology, and now I'm interested in developing useful things while using all kinds of tech.<br>- 📫 Contact: gabrielfasantos1@gmail.com // www.linkedin.com/in/gabrielfasantos<br>- ⚡ Developing games as a hobby</p>
+<p align="left">- 👑 FullStack Developer<br>- 🔭 Enjoy Front-End<br>- 🌱 Learning C#, SQL, Oracle...<br>- 💬 Since I was young, I have loved technology, and now I'm interested in developing useful things while using all kinds of tech.<br>- 📫 Contact: gabrielfasantos1@gmail.com // www.linkedin.com/in/gabrielfasantos<br>- ⚡ Developing games as a hobby</p>
 
 ###
 
