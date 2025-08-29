@@ -12,7 +12,7 @@
 
 <p align="left">- 👑 Full Stack<br>
 - 🔭 Interactive designs<br>
-- 🌱 Pursuing a degree<br>
+- 🎓 Higher Education Completed<br>
 - 💬 Developing useful things<br>
 - ⚡ Game dev as a hobby<br>
 - 📫 Contact: gabrielfasantos1@gmail.com || www.linkedin.com/in/gabrielfasantos</p>
